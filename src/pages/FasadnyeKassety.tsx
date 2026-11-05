@@ -383,7 +383,7 @@ export default function FasadnyeKassety() {
             ))}
           </div>
         </section>
-           <ArticleSection id="<fasadnye-kassety>" />
+           <ArticleSection id="fasadnye-kassety" />
       </div>
     </>
   );

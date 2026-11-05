@@ -55,6 +55,7 @@ export default function Profnastil() {
             ))}
           </div>
         </section>
+              <ArticleSection id="profnastil" />
       </div>
     </>
   );

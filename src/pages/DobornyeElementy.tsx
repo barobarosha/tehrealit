@@ -40,7 +40,7 @@ export default function DobornyeElementy() {
             Связаться <ArrowRight size={16} />
           </Link>
         </div>
-                    <ArticleSection id="<dobornye-elementy>" />
+                    <ArticleSection id="dobornye-elementy" />
       </div>
     </>
   );

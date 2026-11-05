@@ -68,7 +68,7 @@ export default function KorzinyDlyaKondicionerov() {
             </a>
           </div>
         </section>
-                   <ArticleSection id="<korziny>" /> 
+                   <ArticleSection id="korziny" /> 
       </div>
     </>
   );

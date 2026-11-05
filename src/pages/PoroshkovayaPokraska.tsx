@@ -60,7 +60,7 @@ export default function PoroshkovayaPokraska() {
             </div>
           </div>
         </section>
-            <ArticleSection id="<poroshkovaya-pokraska>" />
+            <ArticleSection id="poroshkovaya-pokraska" />
       </div>
     </>
   );
