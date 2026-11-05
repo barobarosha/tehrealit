@@ -1,3 +1,4 @@
+import ArticleSection from '../components/ArticleSection';
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Calculator, Check, Send, FileText, User, Phone, MessageCircle } from 'lucide-react';
@@ -382,6 +383,7 @@ export default function FasadnyeKassety() {
             ))}
           </div>
         </section>
+           <ArticleSection id="<fasadnye-kassety>" />
       </div>
     </>
   );

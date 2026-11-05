@@ -1,3 +1,4 @@
+import ArticleSection from '../components/ArticleSection';
 import { ArrowRight } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { siteData } from '../data/content';
@@ -39,6 +40,7 @@ export default function DobornyeElementy() {
             Связаться <ArrowRight size={16} />
           </Link>
         </div>
+                    <ArticleSection id="<dobornye-elementy>" />
       </div>
     </>
   );

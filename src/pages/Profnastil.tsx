@@ -1,3 +1,4 @@
+import ArticleSection from '../components/ArticleSection';
 import { siteData } from '../data/content';
 
 export default function Profnastil() {

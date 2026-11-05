@@ -1,3 +1,4 @@
+import ArticleSection from '../components/ArticleSection';
 import { Check, Ruler } from 'lucide-react';
 import { siteData } from '../data/content';
 
@@ -55,6 +56,8 @@ export default function AKK() {
             Запросить расчёт
           </a>
         </section>
+            <ArticleSection id="<akk>" />
+        
       </div>
     </>
   );

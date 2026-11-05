@@ -1,3 +1,4 @@
+import ArticleSection from '../components/ArticleSection';
 import { Check, Phone, Ruler } from 'lucide-react';
 import { siteData } from '../data/content';
 
@@ -67,6 +68,7 @@ export default function KorzinyDlyaKondicionerov() {
             </a>
           </div>
         </section>
+                   <ArticleSection id="<korziny>" /> 
       </div>
     </>
   );

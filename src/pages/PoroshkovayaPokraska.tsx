@@ -1,3 +1,4 @@
+import ArticleSection from '../components/ArticleSection';
 import { Check, Flame } from 'lucide-react';
 import { siteData } from '../data/content';
 
@@ -59,6 +60,7 @@ export default function PoroshkovayaPokraska() {
             </div>
           </div>
         </section>
+            <ArticleSection id="<poroshkovaya-pokraska>" />
       </div>
     </>
   );
