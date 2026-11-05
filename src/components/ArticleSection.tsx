@@ -18,7 +18,7 @@ export default function ArticleSection({ id }: { id: string }) {
   if (!article) return null;
 
   return (
-    <section>
+    <section className="mt-16 lg:mt-20 pt-12 border-t border-[hsl(var(--border))]">
       <div className="flex items-center gap-3 mb-6">
         <div className="w-10 h-10 bg-[hsl(var(--tr-accent))]/10 rounded-lg flex items-center justify-center shrink-0">
           <BookOpen size={20} className="text-[hsl(var(--tr-accent))]" />

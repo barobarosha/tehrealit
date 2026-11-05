@@ -56,8 +56,7 @@ export default function AKK() {
             Запросить расчёт
           </a>
         </section>
-            <ArticleSection id="<akk>" />
-        
+            <ArticleSection id="akk" />    
       </div>
     </>
   );
